@@ -23,6 +23,8 @@ namespace RadControlsWinFormsApp1
             RadPageViewStripElement el = radPageView1.ViewElement as RadPageViewStripElement;
             el.ItemContainer.Visibility = Telerik.WinControls.ElementVisibility.Collapsed;
 
+            //git Test 용으로 한줄입력
+
             //this.radPageView1.SelectedPageChanging += new EventHandler<RadPageViewCancelEventArgs>(radPageView1_SelectedPageChanging);
             //Publisher p = new Publisher();
             //p.DoClick();
