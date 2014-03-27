@@ -25,6 +25,8 @@ namespace RadControlsWinFormsApp1
 
             //git Test 용으로 한줄입력
 
+            //git Test 용으로 두줄째 입력
+
             //this.radPageView1.SelectedPageChanging += new EventHandler<RadPageViewCancelEventArgs>(radPageView1_SelectedPageChanging);
             //Publisher p = new Publisher();
             //p.DoClick();
